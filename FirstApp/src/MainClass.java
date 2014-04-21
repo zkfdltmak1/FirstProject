@@ -1,5 +1,5 @@
 public class MainClass {
 	public static void main(String[] args){
-		System.out.println("Ã¹¹øÂ° ÇÁ·ÎÁ§Æ®");
+		System.out.println("ì²«ë²ˆì§¸ í”„ë¡œì íŠ¸");
 	}
 }
